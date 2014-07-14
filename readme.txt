@@ -1,0 +1,1 @@
+put in C:/Program Files (x86)/Steam/SteamApps/common/Team Fortress 2/tf/cfg
